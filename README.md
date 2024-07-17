@@ -8,7 +8,7 @@ What is in it:
 - Comparsion of Discison Tree (DT), K-Nearest Neighbors (KNN), Adaboost DT, Support Vector Machine (SVM), MultiLayer Perceptron (MLP) / Neuron Network (NN) in context of these two dataset
 - Disscussion of these model performance and unique features of each class of model
 
-HW1.ipynb:
+SL.ipynb:
 -All dataset loading and cleanup
 -Skilearn implementation of all models
 -Performance figure in the report
